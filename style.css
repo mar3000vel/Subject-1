@@ -1,0 +1,26 @@
+body{background-color: #901900;}
+
+h1{background-color: white;color: #221A18;
+font-family: Helvetica;
+font-size: 40px;
+text-align: center;}
+
+p{color: #221A18;
+font-family: Helvetica;
+font-size: 18px;}
+
+a{color: white;
+font-family: Helvetica;
+font-size: 18px;
+text-decoration: none;}
+
+a:hover{color: #A73820;}
+
+li{background-color: #221A18;border-color: darkred;
+	border-style: double;
+	padding: 2px;
+	display: inline-block;}
+ul{list-style-type: none;}
+
+img{margin: auto;
+display: block;}
